@@ -1,1 +1,1 @@
-# Ball-catch-game
+# Ball-catch-game using openGl
